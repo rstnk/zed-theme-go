@@ -268,19 +268,19 @@
             "color": "#202124"
           },
           "punctuation": {
-            "color": "#606060"
+            "color": "#A0A0A0"
           },
           "punctuation.bracket": {
-            "color": "#606060"
+            "color": "#A0A0A0"
           },
           "punctuation.delimiter": {
-            "color": "#606060"
+            "color": "#A0A0A0"
           },
           "punctuation.list_marker": {
-            "color": "#606060"
+            "color": "#0060DF"
           },
           "punctuation.special": {
-            "color": "#202124"
+            "color": "#606060"
           },
           "string": {
             "color": "#721041"
@@ -301,10 +301,11 @@
             "color": "#0060DF"
           },
           "text.literal": {
-            "color": "#202124"
+            "color": "#721041"
           },
           "title": {
-            "color": "#202124"
+            "color": "#0060DF",
+            "font_weight": "bold"
           },
           "type": {
             "color": "#0060DF"
@@ -594,19 +595,19 @@
             "color": "#DADCE0"
           },
           "punctuation": {
-            "color": "#DADCE0"
+            "color": "#606060"
           },
           "punctuation.bracket": {
-            "color": "#DADCE0"
+            "color": "#606060"
           },
           "punctuation.delimiter": {
-            "color": "#DADCE0"
+            "color": "#606060"
           },
           "punctuation.list_marker": {
-            "color": "#DADCE0"
+            "color": "#669DF6"
           },
           "punctuation.special": {
-            "color": "#DADCE0"
+            "color": "#9BA3AF"
           },
           "string": {
             "color": "#7EC699"
@@ -627,10 +628,11 @@
             "color": "#669DF6"
           },
           "text.literal": {
-            "color": "#DADCE0"
+            "color": "#7EC699"
           },
           "title": {
-            "color": "#DADCE0"
+            "color": "#669DF6",
+            "font_weight": "bold"
           },
           "type": {
             "color": "#669DF6"
