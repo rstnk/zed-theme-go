@@ -196,11 +196,11 @@
             "color": "#1C00CF"
           },
           "comment": {
-            "color": "#606060",
+            "color": "#9BA3AF",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#606060"
+            "color": "#9BA3AF"
           },
           "constant": {
             "color": "#1C00CF"
@@ -317,7 +317,7 @@
             "color": "#202124"
           },
           "variable.special": {
-            "color": "#606060"
+            "color": "#9BA3AF"
           },
           "variant": {
             "color": "#202124"
@@ -595,13 +595,13 @@
             "color": "#DADCE0"
           },
           "punctuation": {
-            "color": "#606060"
+            "color": "#9BA3AF"
           },
           "punctuation.bracket": {
             "color": "#DADCE0"
           },
           "punctuation.delimiter": {
-            "color": "#606060"
+            "color": "#9BA3AF"
           },
           "punctuation.list_marker": {
             "color": "#669DF6"
