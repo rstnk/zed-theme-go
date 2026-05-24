@@ -271,7 +271,7 @@
             "color": "#A0A0A0"
           },
           "punctuation.bracket": {
-            "color": "#DADCE0"
+            "color": "#202124"
           },
           "punctuation.delimiter": {
             "color": "#A0A0A0"
@@ -280,7 +280,7 @@
             "color": "#0060DF"
           },
           "punctuation.special": {
-            "color": "#DADCE0"
+            "color": "#202124"
           },
           "string": {
             "color": "#721041"
@@ -598,7 +598,7 @@
             "color": "#606060"
           },
           "punctuation.bracket": {
-            "color": "#202124"
+            "color": "#DADCE0"
           },
           "punctuation.delimiter": {
             "color": "#606060"
@@ -607,7 +607,7 @@
             "color": "#669DF6"
           },
           "punctuation.special": {
-            "color": "#202124"
+            "color": "#DADCE0"
           },
           "string": {
             "color": "#7EC699"
